@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Hash table program");
-
+            HashTable.hashTable();
         }
 
     }
